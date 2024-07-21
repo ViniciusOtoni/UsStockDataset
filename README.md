@@ -1,4 +1,4 @@
-# Projeto de Exploração e Análise de Dados de Estoque dos EUA
+# Projeto de Exploração e Análise de Dados de Estoque dos EUA:
 
 Bem-vindo ao projeto de Exploração e Análise de Dados de Estoque dos EUA! Este projeto visa analisar um dataset detalhado sobre o estoque de empresas dos Estados Unidos, com o objetivo de extrair insights relevantes sobre padrões de estoque, desempenho das empresas e tendências de mercado.
 
